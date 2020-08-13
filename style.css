@@ -1,0 +1,26 @@
+body {
+    background-color: #746cc0;
+}
+
+.heading {
+    font-family: Orbitron;
+    font-size: 50px;
+}
+
+hr {
+    height: 5px;
+    color: black;
+}
+
+.thinkhead {
+    font-family: Orbitron;
+    color: white;
+}
+
+.mb {
+    border-radius: 5%;
+}
+
+.webdev {
+    margin-left: 50px;
+}
