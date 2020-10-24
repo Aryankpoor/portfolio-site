@@ -1,7 +1,3 @@
-# Personal Website files.
+# Portfolio site
 
-My very own website with netlify and Github.
-If you are readig this you are a contributor to this website or repos since it is a private repository.
-Template of the website is available on my github profile.
-
-link - kapoor-aryan.netlify.app
+Sorry , this repository has been archivedd, to contributing to one of my other repos, this repo has been shifted to [this repo](https://github.com/Aryankpoor/Kapoor-aryan)
